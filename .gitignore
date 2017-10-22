@@ -1,0 +1,8 @@
+Objects/
+Listings/
+*.scvd
+*.ini
+main.uvguix.*
+main.uvoptx
+main.uvprojx
+JLinkLog.txt
